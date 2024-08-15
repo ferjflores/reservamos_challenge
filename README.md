@@ -72,7 +72,7 @@ This project uses environment variables for configuration. Create a `.env` file 
 
 ```
 OPENWEATHER_API_KEY=your_api_key_here
-OPENWEATHER_API_URL=https://api.openweathermap.org/data/3.0/onecall
+OPENWEATHER_API_URL=https://api.openweathermap.org/data/2.5/onecall
 RESERVAMOS_API_URL=https://search.reservamos.mx/api/v2/places
 ```
 
